@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Allison, and I'm a fullstack jr software developer.
-My tech stack includes Java, Java Spring, Java Spring Boot, SQL, PostgreSQL, JavaScript, and Vue.js
+My name is Allison, and I'm a fullstack software developer.
+My tech stack includes Java, Java Spring Boot, SQL, PostgreSQL, JavaScript, and Vue.js
 
 Fun facts about me: I lived in South Korea for 4.5 years, I've visited over 20 countries,
 I love painting and reading, and I LOVE trying new things :)
